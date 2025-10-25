@@ -1,0 +1,33 @@
+div{
+    background-color: #a43131;
+    width: 700px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+h1 {
+    font-family: "Bitcount Grid Single", sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 2rem;
+}
+img {
+    display: block;
+    margin: 2rem auto;
+    max-width: 300px;
+    height: auto;
+}
+button {
+    padding: 1rem;
+    font-size: 1rem;
+    font-family: "Bitcount Grid Single", sans-serif;
+    background-color: #000000;
+    color: #666666;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
